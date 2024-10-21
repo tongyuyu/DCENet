@@ -1,7 +1,7 @@
-# Dual cross-enhancement network for highly accurate dichotomous image segmentation
+# [Dual cross-enhancement network for highly accurate dichotomous image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1077314224002030)
 
 # cite
-
+```
 @article{bi2024dual,
   title={Dual cross-enhancement network for highly accurate dichotomous image segmentation},
   author={Bi, Hongbo and Tong, Yuyu and Zhang, Pan and Zhang, Jiayuan and Zhang, Cong},
@@ -11,3 +11,4 @@
   year={2024},
   publisher={Elsevier}
 }
+```
